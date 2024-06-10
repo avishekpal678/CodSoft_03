@@ -244,8 +244,7 @@ body.light-mode .display {
 
     button {
         border-radius: 50px;
-    
-     height:calc((100vh - 250px) / 6);
+
     }
 
 .switch {
