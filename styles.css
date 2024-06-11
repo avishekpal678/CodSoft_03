@@ -244,7 +244,7 @@ body.light-mode .display {
 
     button {
         border-radius: 50px;
-        height: calc((100vh - 250px) / 6);
+        height: calc((100vh - 300px) / 6);
         display: flex;
         justify-content: center;
         align-items: center;
