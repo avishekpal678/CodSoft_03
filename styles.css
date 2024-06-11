@@ -237,18 +237,18 @@ body.light-mode .display {
 
 
     .buttons {
-        gap: 12px;
+        gap: 22px;
         background-color: #000000;
 
     }
 
     button {
         border-radius: 50px;
-        height: calc((100vh - 350px) / 6);
+        height: calc((100vh - 400px) / 6);
         display: flex;
         justify-content: center;
         align-items: center;
-        font-size: 1.5rem;
+        font-size: 1.2rem;
 
 
     }
